@@ -153,7 +153,6 @@ display_to_model = {
     "Random Forest": "Random Forest",
     "XGBoost": "Xgboost",
     "Decision Tree": "Decision Tree",
-    "SVM" : "SVM" ,
     "KNN": "KNN" , 
     "Logistic Regression": "Logistic Regression"
 }
